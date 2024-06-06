@@ -1,0 +1,42 @@
+body {
+    background-color: #50f6a6;
+}
+
+img {
+    width: 40%;
+}
+
+p {
+    color: blue;
+}
+
+/* .intro {
+    color: blueviolet;
+} */
+/* #about {
+    background-color: antiquewhite;
+}
+#projects {
+    background-color: aliceblue;
+} */
+
+.dark {
+    background-color: black;
+    color: bisque;
+}
+
+.light {
+    background-color: bisque;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li a {
+display: inline-block;
+width: 60px;
+}
